@@ -22,16 +22,24 @@ Some of the students were caught with academic dishonesty from Thomas High Schoo
 ## Challenge Summary
 
 ✓ How is the district summary affected?
-
+The average math score decreased by 0.1 points while the average reading score stayed the same.  The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
 
 ✓ How is the school summary affected?
-
+The only change in data is with Thomas High School. The overall math and reading passing numbers decreased.
 
 ✓ How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-
+Thomas High School moved from 2nd place overall with a passing % of ~92% down to last place with a passing % of ~68%.
 
 ✓ How does removing the ninth grade scores affect the following
+
 - Math and Reading Scores by Grade
+Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected.
+
 - Scores by School Spending
+The $630-644 bin saw a decrease in the passing percentages since Thomas High School was in that spending range. Though, interestingly   the average math and reading scores for that range remained the same.
+
 - Scores by School Size
+The Medium (1000-2000) bin saw a decrease in the passing percentages since Thomas High School was in that school size. Though, interestingly the average math and reading scores for that range remained the same.
+  
 - Scores by School Type
+The Charter schools saw a decrease in the passing percentages since Thomas High School was in that school type. Though, interestingly the average math and reading scores for that range remained the same.
